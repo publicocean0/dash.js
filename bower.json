@@ -1,6 +1,6 @@
 {
 "name": "dash-js",
-"version": "2.6.0",
+"version": "2.5.0",
 "main":["dist/dash.all.debug.js"],
 "configurator":["grunt dist"],
 "ignore": []
