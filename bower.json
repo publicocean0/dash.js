@@ -1,5 +1,5 @@
 {
-"name": "dash.js",
+"name": "dash-js",
 "version": "2.6.0",
 "main":["dist/dash.all.debug.js"],
 "configurator":["grunt dist"],
