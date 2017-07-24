@@ -2,7 +2,7 @@
 "name": "dash-js",
 "version": "2.5.0",
 "main":["dist/dash.all.debug.js"],
-"configurator":["grunt dist"],
+"configurator":["npm update","grunt dist"],
 "ignore": []
 }
 
